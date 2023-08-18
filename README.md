@@ -1,4 +1,4 @@
-# This is a trip advisor app
+# This is a travel advisor app
 
 for this app running
 1. add google api key in {

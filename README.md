@@ -11,7 +11,7 @@ for this app running
 
 # You can use this app to
 Search travel places, the restaurants, the attractions and change the rating requirements.\
-I used rapid API call fetch the restaurants, the attractions, and used Google Javascript API to display the map icon.\
+I used rapid API call fetch the restaurants, the attractions, and used Google Javascript API to display the map icon.
 
 
 # Getting Started with Create React App

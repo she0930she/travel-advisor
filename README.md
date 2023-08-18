@@ -1,3 +1,19 @@
+# This is a trip advisor app
+
+for this app running
+1. add google api key in {
+    Map.js
+    index.js in Public folder
+    index.js in api folder
+}
+
+2. run npm start
+
+# You can use this app to
+search travel places, the restaurants, the attractions and change the rating requirements 
+I used rapid API call fetch the restaurants, the attractions, and used Google Javascript API to display the map icon 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

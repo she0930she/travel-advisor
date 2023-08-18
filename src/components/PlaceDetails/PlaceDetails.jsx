@@ -6,7 +6,10 @@ import LocalPhoneOutlinedIcon from '@mui/icons-material/LocalPhoneOutlined';
 
 
 
-const PlaceDetails = ({place}) => {
+const PlaceDetails = ({ place, selected, refProp }) => {
+
+    if(selected) refProp?.current?.scrollIntoView({ behavior: "smooth", block: "start" })
+
     return (
         <div>
             <Card elevation={6}>

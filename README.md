@@ -2,8 +2,8 @@
 
 for this app running
 1. add google api key in {
-    Map.js
-    index.js in Public folder
+    Map.js,
+    index.js in Public folder,
     index.js in api folder
 }
 

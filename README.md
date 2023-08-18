@@ -2,16 +2,16 @@
 
 for this app running
 1. add google api key in {
-    Map.js,
-    index.js in Public folder,
-    index.js in api folder
+    Map.js,\
+    index.js in Public folder,\
+    index.js in api folder\
 }
 
 2. run npm start
 
 # You can use this app to
-search travel places, the restaurants, the attractions and change the rating requirements 
-I used rapid API call fetch the restaurants, the attractions, and used Google Javascript API to display the map icon 
+search travel places, the restaurants, the attractions and change the rating requirements.\ 
+I used rapid API call fetch the restaurants, the attractions, and used Google Javascript API to display the map icon.\ 
 
 
 # Getting Started with Create React App
